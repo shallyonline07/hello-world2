@@ -7,9 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello-world2';
-<<<<<<< HEAD
-=======
 // jkdhkjsdk
 
->>>>>>> 8985f07 (uncomment the statement)
 }
